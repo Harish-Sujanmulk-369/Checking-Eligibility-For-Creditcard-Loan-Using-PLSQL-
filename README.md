@@ -3,6 +3,8 @@ This PLSQL project tells us whether we have credit card loan eligibility through
                         
                         What I used in this scenario is
                         
+ CONTENTS:
+                        
 1.DDL,DML,TCL,DRL COMMANDS
 
 2.SUBSTR()      -->The SUBSTR() function extracts a substring from a string (starting at any position).
