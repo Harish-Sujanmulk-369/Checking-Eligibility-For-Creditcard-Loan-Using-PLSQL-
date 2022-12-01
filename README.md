@@ -1,4 +1,4 @@
-# Credit-Card-Loan-Eligibility
+# Credit-Card-Loan-Eligibility-Using-PLSQL
 This PLSQL project tells us whether we have credit card loan eligibility through phone number and credit card last four digits. 
                         
                         What I used in this scenario is
