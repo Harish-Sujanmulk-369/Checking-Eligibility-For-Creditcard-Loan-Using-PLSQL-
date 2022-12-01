@@ -27,3 +27,4 @@ This PLSQL project tells us whether we have credit card loan eligibility through
 10.Exception    -->An exception is a PL/SQL error that is raised during program execution, either implicitly by TimesTen or explicitly by your program. Handle an                             exception by trapping it with a handler or propagating it to the calling environment.
 
 11.Anonymous Block-->The PL/SQL anonymous block statement is an executable statement that can contain PL/SQL control statements and SQL statements. It can be used to implement procedural logic in a scripting language.
+
